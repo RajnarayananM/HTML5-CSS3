@@ -1,0 +1,13 @@
+a:visited{
+    
+    color: greenyellow;
+}
+a:hover{
+    color: brown;
+}
+body{
+    color: red;
+}
+a{
+    color: blueviolet;
+}
